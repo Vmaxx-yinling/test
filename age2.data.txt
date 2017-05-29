@@ -1,5 +1,0 @@
-classes=100
-train  = /home/yinling/dita/age2.list
-labels = /home/yinling/dita/files/age2.names
-backup = /home/yinling/darknet/backup/0528/
-top = 1
