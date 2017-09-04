@@ -1,4 +1,0 @@
-curl -o pred_0831_1.sh https://raw.githubusercontent.com/Vmaxx-yinling/test/master/pred_0831_1.sh
-curl -o pred_0831_2.sh https://raw.githubusercontent.com/Vmaxx-yinling/test/master/pred_0831_2.sh
-curl -o pred_0831_3.sh https://raw.githubusercontent.com/Vmaxx-yinling/test/master/pred_0831_3.sh
-curl -o pred_0831_4.sh https://raw.githubusercontent.com/Vmaxx-yinling/test/master/pred_0831_4.sh
