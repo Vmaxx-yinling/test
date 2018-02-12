@@ -1,0 +1,4 @@
+classes= 1
+train  = /home/yl/hd/facedetect/train/cfg/train_subset.list
+names = /home/yl/hd/facedetect/train/cfg/face.names
+backup = /home/yl/hd/darknet/backup/0211
